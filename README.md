@@ -14,4 +14,4 @@ npx create-expo-app --template
 3. Run the code:
 npx expo start.
 
-This will give you the QR Code, and commands to run if you're using emulators
+This will give you the QR Code, and commands to run if you're using emulator
