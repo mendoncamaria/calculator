@@ -1,7 +1,7 @@
 # calculator
 Calculator built using React Native
 
-##steps to run react native apps:
+## steps to run react native apps:
 
 1. install expo:
 npm install -g expo-cli
