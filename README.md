@@ -8,7 +8,7 @@ npm install -g expo-cli
 
 2. Initialize the project:
 npx create-expo-app --template
-> choose relevant template, i went with blank
+> choose relevant template, i went with blank   
 > Name of the app: if it is in desired folder then click . else write the project name
 
 3. Run the code:
